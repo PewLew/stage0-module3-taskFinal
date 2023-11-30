@@ -2,7 +2,7 @@ package lang.print.gaps.finalModuleTask;
 
 public class DigitsSumCalculator {
     public void calculateSum(int number) {
-        int sunm = 0;
+        int sum = 0;
         int rem;
 
         while (number > 0) {
